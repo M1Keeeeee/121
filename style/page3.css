@@ -1,0 +1,15 @@
+.link_to_page3 {
+    text-decoration: none;
+    color: black;
+}
+.main_menu3 {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    list-style-type: none;
+}
+.li {
+    list-style-type: none;
+    }
